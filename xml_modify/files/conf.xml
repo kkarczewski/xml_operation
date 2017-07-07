@@ -1,0 +1,13 @@
+<business type="bar">
+    <name>Tasty Beverage Co.</name>
+    <beers>
+        <beer>Rochefort 10</beer>
+        <beer>St. Bernardus Abbot 12</beer>
+        <beer>Piwo Zacne</beer>
+    </beers>
+    <rating subjective="100" test="test">100</rating>
+    <website info="true">
+        <mobilefriendly is_it="yes">true</mobilefriendly>
+        <address>http://tastybeverageco.com</address>
+    </website>
+</business>
